@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productpalidate",
+        "uuid": 3012944,
+        "checksum": "uaxtv"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
